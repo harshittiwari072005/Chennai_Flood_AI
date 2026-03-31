@@ -1,0 +1,11 @@
+{
+  "lstm_threshold": 0.7572854161262512,
+  "rf_threshold": 0.3800569358235007,
+  "xgb_threshold": 0.5403537154197693,
+  "lgb_threshold": 0.09475370784002371,
+  "lookback": 30,
+  "selected_model": "LSTM",
+  "lstm_recall": 0.8571428571428571,
+  "rf_recall": 0.5714285714285714,
+  "predict_date_used": "2021-11-11"
+}
