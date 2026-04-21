@@ -1,4 +1,4 @@
-# 🌊 Chennai Flood Risk AI AND RESOURCE ALLOCATI
+# 🌊 Chennai Flood Risk AI AND RESOURCE ALLOCATIO
 
 > AI-driven flood prediction and emergency resource allocation system for Chennai, Tamil Nadu — built using real ERA5 meteorological data, ensemble machine learning, and LSTM time-series modeling.
 
